@@ -2,8 +2,12 @@
 
 ### HTML
 
-Enter your reflections on this section here.
+I learned a lot about html and how to structure a basic page semantically.
 
 ### Accessibility
 
-Enter your reflections on this section here.
+It was very neat to learn the accessibility features of html such as ARIA and semantically correct elements.
+
+### CSS
+
+asdf
